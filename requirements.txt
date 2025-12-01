@@ -1,9 +1,14 @@
-scikit-learn
-pandas
-numpy
-tensorflow
+kagglehub
 keras
-torch
-plotnine
 matplotlib
+numpy<2
+opencv-python
 ipykernel
+pandas
+Pillow
+plotnine
+scikit-learn
+# seaborn
+tensorflow-macos
+tensorflow-metal
+umap-learn
